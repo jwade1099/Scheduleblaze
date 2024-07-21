@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jwade\\code\\cs\\Scheduleblaze\\Scheduleblaze\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Scheduleblaze.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Scheduleblaze.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\jwade\\code\\cs\\Scheduleblaze\\Scheduleblaze\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\jwade\\code\\cs\\Scheduleblaze\\Scheduleblaze\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jwade\\code\\cs\\Scheduleblaze\\Scheduleblaze\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jwade\\code\\cs\\Scheduleblaze\\Scheduleblaze\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Scheduleblaze.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Scheduleblaze.props",
+      "PackagePath": "build\\Scheduleblaze.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Scheduleblaze.props",
+      "PackagePath": "buildMultiTargeting\\Scheduleblaze.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Scheduleblaze.props",
+      "PackagePath": "buildTransitive\\Scheduleblaze.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
